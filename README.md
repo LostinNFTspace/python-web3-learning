@@ -10,6 +10,7 @@ with a focus on interacting with the Base network.
 - Demonstrates basic Python + Web3 concepts
 - Connects to Base RPC
 - Reads on-chain data (no transactions)
+- Reads ETH balance for a given address on Base
 
 ## Why this exists
 This is an educational and experimental project intended to:
